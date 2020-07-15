@@ -4,3 +4,11 @@
   - Lê Đại Thành - 18521404
   
 - Link Dataset : https://drive.google.com/drive/folders/1KYcyAL7XrotBglTE3OAw1QoJU95chNMJ?usp=sharing
+- Hướng dẫn load model :
+   - Nhận diện khẩu trang:
+      - Tải file model.zip giải nén sau đó load hoặc re-up lên google colab hoặc drive 
+      - Thay đổi đường dẫn trong file DemoFaceMask.ipynd
+   - Nhận diện người đeo khẩu trang:
+      - Load model nhận diện khẩu trang
+      - Tải 2 file model trong tệp Face_Detection sau đó load hoặc re-up lên google colab hoặc drive
+      - Thay đổi đường dẫn trong file DemoFaceMask.ipynd
