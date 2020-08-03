@@ -1,3 +1,9 @@
+**ĐỒ ÁN CUỐI KỲ**
+  - Môn : Máy học
+  - Lớp : CS114.K21
+  - GV : PGS.TS Lê Đình Duy – THS. Phạm Nguyễn Trường An
+  - Trường : Đại Học Công Nghệ Thông Tin 
+
 **Bài Toán : Nhận dạng người đeo khẩu trang**
 
 - Thành viên nhóm :
