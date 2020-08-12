@@ -1,0 +1,2 @@
+- Mask : 509 ảnh 
+- Without_mask : 525 ảnh 
